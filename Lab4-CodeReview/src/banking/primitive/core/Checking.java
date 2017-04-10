@@ -1,5 +1,9 @@
 package banking.primitive.core;
-
+/***
+  Class: Checking
+  
+  Description: Represents a checking account  which extends the Account class.
+ */
 public class Checking extends Account {
 
 	private static final long serialVersionUID = 11L;
